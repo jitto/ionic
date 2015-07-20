@@ -6,7 +6,7 @@ Linux:
 curl -sL https://deb.nodesource.com/setup_0.12 | sudo -E bash -
 sudo apt-get install -y nodejs
 
-Windows: https://nodejs.org/download/
+Windows and Mac: https://nodejs.org/download/
 
 npm install -g cordova ionic
 ```
