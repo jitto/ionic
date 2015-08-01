@@ -1,13 +1,15 @@
 # ionic
 
-One time global:
+Onetime - Windows and Mac: https://nodejs.org/download/ and https://git-scm.com/download/win
+
+One time Linux from shell:
 ```
-Linux:
 curl -sL https://deb.nodesource.com/setup_0.12 | sudo -E bash -
-sudo apt-get install -y nodejs
+sudo apt-get install -y nodejs git
+```
 
-Windows and Mac: https://nodejs.org/download/
-
+One time common from shell
+```
 npm install -g cordova ionic
 ```
 
